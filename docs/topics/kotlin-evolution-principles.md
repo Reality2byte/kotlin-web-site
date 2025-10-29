@@ -1,4 +1,5 @@
-[//]: # (title: Kotlin evolution principles)
+[//]: 
+# (title: Kotlin evolution principles)
 
 ## Principles of pragmatic evolution
 
